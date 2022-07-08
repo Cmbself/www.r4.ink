@@ -4,30 +4,25 @@ var json = [{
     "url": "./index.html"
 },
 {
-    "name": "关于",
-    "icon": "<i class='mdi mdi-information'></i>",
-    "url": "./about.html"
-},
-{
-    "name": "加入服务器",
+    "name": "入服",
     "icon": "<i class='mdi mdi-lan-connect'></i>",
     "url": "./join.html"
 },
 {
-    "name": "服务器规定",
+    "name": "服规",
     "icon": "<i class='mdi mdi-book-open'></i>",
     "url": "./rules.html"
 },
 {
-    "name": "联安的blog",
+    "name": "CMBlog",
     "icon": "<i class='mdi mdi-blogger'></i>",
-    "url": "https://blog.unsc.dev",
+    "url": "http://blog.cmbself.top",
     "target": "_blank"
 },
 {
-    "name": "English",
+    "name": "Chinese",
     "icon": "<i class='mdi mdi-alphabetical'></i>",
-    "url": "./en-us/index.html",
+    "url": "./index.html",
     "target": "_blank"
 }
 ]
